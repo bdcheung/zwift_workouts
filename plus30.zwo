@@ -1,0 +1,23 @@
+<workout_file>
+  <author>Brian Cheung</author>
+  <name>Plus30</name>
+  <description>Add 30" each additional interval.  Maintain 113% power.  See how long you can last.  Skip intervals when you're cooked.</description>
+  <tags></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75"/>
+    <SteadyState Duration="180" Power="1.13"/>
+    <SteadyState Duration="180" Power="0.5"/>
+    <SteadyState Duration="210" Power="1.13"/>
+    <SteadyState Duration="180" Power="0.5"/>
+    <SteadyState Duration="240" Power="1.13"/>
+    <SteadyState Duration="210" Power="0.5"/>
+    <SteadyState Duration="270" Power="1.13"/>
+    <Cooldown Duration="210" PowerLow="0.5" PowerHigh="0.5"/>
+    <SteadyState Duration="300" Power="1.13"/>
+    <SteadyState Duration="210" Power="0.5"/>
+    <SteadyState Duration="330" Power="1.13"/>
+    <SteadyState Duration="210" Power="0.5"/>
+    <SteadyState Duration="360" Power="1.13"/>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.25"/>
+  </workout>
+</workout_file>
