@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>Threshold</category>
+    <name>Drive for the Line</name>
+    <description>
+    </description>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25173077" PowerHigh="0.75173074"/>
+        <SteadyState Duration="1200" Power="0.850" />
+        <SteadyState Duration="300" Power="0.70" />
+        <SteadyState Duration="270" Power="1.0" />
+        <SteadyState Duration="30" Power="1.40" />
+        <SteadyState Duration="300" Power="0.70" />
+        <SteadyState Duration="270" Power="1.0" />
+        <SteadyState Duration="30" Power="1.40" />
+        <Cooldown Duration="600" PowerLow="0.75173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

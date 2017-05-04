@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>An essential workout for developing tremendous speed, power and recovery, this is the only cycling workout that asks you to chase back to the front in Paris-Roubaix or out-sprint the pack at the top of the Mur de Huy at the end of the Fleche Wallone.
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - Downward Spiral
+</name>
+    <workout>
+        <SteadyState Duration="127.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="188.4" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="147.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="30.6" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="75.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="42.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="44.4" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="117.6" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="128.4" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="105.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="117.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="99.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="104.4" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="76.8" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="87.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="58.8" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="71.4" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="43.8" PowerHigh="1.190" PowerLow="1.190"/>
+        <SteadyState Duration="55.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="30.0" PowerHigh="1.190" PowerLow="1.190"/>
+        <SteadyState Duration="41.4" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="15.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="313.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="118.8" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="135.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="108.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="120.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="91.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="105.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="76.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="87.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="72.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="43.8" PowerHigh="1.190" PowerLow="1.190"/>
+        <SteadyState Duration="55.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="30.0" PowerHigh="1.190" PowerLow="1.190"/>
+        <SteadyState Duration="39.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="14.4" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="25.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="15.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="21.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="15.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="22.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="15.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="309.0" PowerHigh="0.460" PowerLow="0.460"/>
+    </workout>
+</workout_file>
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>When you think you’re going fast and then you have to go faster? That’s racing and that’s what TINT prepares you for: each interval gets faster and faster, helping you break through new barriers. 
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - There Is No Try
+</name>
+    <workout>
+        <SteadyState Duration="277.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="120.6" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="60.0" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="32.4" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="22.8" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="28.8" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="62.4" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="15.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="15.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="15.6" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="15.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="76.2" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="31.2" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="18.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="13.8" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="79.8" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="45.0" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="46.2" PowerHigh="1.020" PowerLow="1.020"/>
+        <SteadyState Duration="42.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="28.8" PowerHigh="1.120" PowerLow="1.120"/>
+        <SteadyState Duration="18.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="74.4" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="63.0" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="57.6" PowerHigh="1.020" PowerLow="1.020"/>
+        <SteadyState Duration="60.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="60.0" PowerHigh="1.120" PowerLow="1.120"/>
+        <SteadyState Duration="108.0" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="121.2" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="120.0" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="118.8" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="123.0" PowerHigh="1.020" PowerLow="1.020"/>
+        <SteadyState Duration="135.0" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="61.2" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="58.8" PowerHigh="1.020" PowerLow="1.020"/>
+        <SteadyState Duration="60.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="61.2" PowerHigh="1.120" PowerLow="1.120"/>
+        <SteadyState Duration="109.2" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="43.8" PowerHigh="0.970" PowerLow="0.970"/>
+        <SteadyState Duration="46.2" PowerHigh="1.020" PowerLow="1.020"/>
+        <SteadyState Duration="43.8" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="48.0" PowerHigh="1.120" PowerLow="1.120"/>
+        <SteadyState Duration="84.0" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="30.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="31.8" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="76.2" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="15.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="15.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="15.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="19.8" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="255.0" PowerHigh="0.750" PowerLow="0.750"/>
+    </workout>
+</workout_file>
+

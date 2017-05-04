@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>SST</category>
+    <name>3x10x5 Negative Split SST</name>
+    <description>
+        This is your typical 3x10' SST workout, but with work intervals that increase the target power from the low end of SST range (83% FTP) to the high end of FTP range (97%)
+    </description>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.25173077" PowerHigh="0.75173074"/>
+        <SteadyState Duration="600" Power="0.830"/>
+        <FreeRide Duration="300" FlatRoad="1" />
+        <SteadyState Duration="600" Power="0.900"/>
+        <FreeRide Duration="300" FlatRoad="1" />
+        <SteadyState Duration="600" Power="0.970"/>
+        <Cooldown Duration="300" PowerLow="0.75173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

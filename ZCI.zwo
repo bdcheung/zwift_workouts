@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>Threshold</category>
+    <name>ZeCanon Intervals</name>
+    <description>
+    </description>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25173077" PowerHigh="0.75173074"/>
+        <SteadyState Duration="300" PowerLow="1.03" PowerHigh="1.03"/>
+	    <FreeRide Duration="60" FlatRoad="1" />
+        <SteadyState Duration="300" PowerLow="1.03" PowerHigh="1.03"/>
+        <FreeRide Duration="60" FlatRoad="1" />
+        <SteadyState Duration="300" PowerLow="1.03" PowerHigh="1.03"/>
+        <FreeRide Duration="60" FlatRoad="1" />
+        <SteadyState Duration="300" PowerLow="1.03" PowerHigh="1.03"/>
+        <FreeRide Duration="60" FlatRoad="1" />
+        <SteadyState Duration="300" PowerLow="1.03" PowerHigh="1.03"/>
+        <FreeRide Duration="60" FlatRoad="1" />
+        <SteadyState Duration="300" PowerLow="1.03" PowerHigh="1.03"/>
+        <FreeRide Duration="60" FlatRoad="1" />
+        <Cooldown Duration="600" PowerLow="0.75173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

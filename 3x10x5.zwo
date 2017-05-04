@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>SST</category>
+    <name>3x10x5 SST</name>
+    <description></description>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.25173077" PowerHigh="0.75173074"/>
+        <SteadyState Duration="600" Power="0.90"/>
+        <FreeRide Duration="300" FlatRoad="1" />
+        <SteadyState Duration="600" Power="0.90"/>
+        <FreeRide Duration="300" FlatRoad="1" />
+        <SteadyState Duration="600" Power="0.90"/>
+        <Cooldown Duration="300" PowerLow="0.75173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Work on that threshold endurance with this series of longer intervals that will take you right to the edge….and keep you there. Watch out for the Pain Shakes intervals before a few sustained efforts at the end suck everything else out of you. 
+</description>
+<category>Sufferfest</category>
+<name>Sufferfest - Blender
+</name>
+    <workout>
+        <SteadyState Duration="331.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="133.2" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="25.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="91.8" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="151.2" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="60.6" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="61.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="85.8" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="15.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="31.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="322.8" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="36.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="194.4" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="123.6" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="119.4" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="117.6" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="75.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="17.4" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="46.8" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="25.8" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="18.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="59.4" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="111.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="37.8" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="87.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="121.8" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="69.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="45.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="126.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="121.2" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="144.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="25.8" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="192.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="235.2" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="40.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="19.8" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="40.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="19.8" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="39.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="21.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="42.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="21.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="40.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="21.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="48.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="120.6" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="31.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="31.2" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="30.6" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="30.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="33.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="30.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="32.4" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="30.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="30.6" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="30.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="34.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="120.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="22.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="40.8" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="21.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="40.2" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="21.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="39.6" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="23.4" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="39.6" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="21.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="41.4" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="19.8" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="228.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="235.2" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="60.6" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="240.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="60.0" PowerHigh="0.460" PowerLow="0.460"/>
+        <SteadyState Duration="261.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="457.2" PowerHigh="0.460" PowerLow="0.460"/>
+    </workout>
+</workout_file>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Designed by the expert coaches at Dig Deep Coaching, this one hour workout is specifically designed to get you ready for, and then do, a 20 minute cycling Functional Threshold Performance test. 
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - Rubber Glove
+</name>
+    <workout>
+        <SteadyState Duration="529.2" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="181.8" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="180.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="180.0" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="181.2" PowerHigh="0.830" PowerLow="0.830"/>
+        <SteadyState Duration="180.0" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="180.0" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="60.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="60.0" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="60.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="60.0" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="60.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="60.0" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="60.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="180.6" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="301.2" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="301.2" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="300.6" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="300.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="194.4" PowerHigh="0.390" PowerLow="0.390"/>
+    </workout>
+</workout_file>
+

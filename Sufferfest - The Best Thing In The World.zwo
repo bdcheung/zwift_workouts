@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Absolutely essential for anyone racing criteriums or cyclocross, TBTITW is one of our best sessions for developing high-end power, recovery and mental strength at the end of a scrappy, aggressive race or killer group ride.
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - The Best Thing In The World
+</name>
+    <workout>
+        <SteadyState Duration="228.0" PowerHigh="0.390" PowerLow="0.390"/>
+        <SteadyState Duration="139.2" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="73.8" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="70.8" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="80.4" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="40.8" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="58.8" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="60.0" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="61.2" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="33.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="30.0" PowerHigh="0.830" PowerLow="0.830"/>
+        <SteadyState Duration="13.8" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="10.2" PowerHigh="1.350" PowerLow="1.350"/>
+        <SteadyState Duration="21.0" PowerHigh="0.830" PowerLow="0.830"/>
+        <SteadyState Duration="16.8" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="24.0" PowerHigh="0.830" PowerLow="0.830"/>
+        <SteadyState Duration="51.0" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="18.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="66.0" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="27.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="14.4" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="57.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="24.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="9.0" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="19.8" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="33.0" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="61.8" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="5.4" PowerHigh="0.780" PowerLow="0.780"/>
+        <SteadyState Duration="22.8" PowerHigh="0.720" PowerLow="0.720"/>
+        <SteadyState Duration="28.8" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="31.2" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="22.8" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="11.4" PowerHigh="1.280" PowerLow="1.280"/>
+        <SteadyState Duration="27.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="15.0" PowerHigh="1.280" PowerLow="1.280"/>
+        <SteadyState Duration="15.6" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="22.2" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="6.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="16.2" PowerHigh="1.350" PowerLow="1.350"/>
+        <SteadyState Duration="45.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="10.8" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="4.8" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="2.4" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="4.8" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="6.0" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="16.2" PowerHigh="1.350" PowerLow="1.350"/>
+        <SteadyState Duration="180.0" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="103.8" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="16.8" PowerHigh="1.280" PowerLow="1.280"/>
+        <SteadyState Duration="44.4" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="60.0" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="60.0" PowerHigh="0.610" PowerLow="0.610"/>
+        <SteadyState Duration="21.6" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="6.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="23.4" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="21.6" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="5.4" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="19.8" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="22.2" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="45.6" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="15.0" PowerHigh="0.940" PowerLow="0.940"/>
+        <SteadyState Duration="43.2" PowerHigh="0.830" PowerLow="0.830"/>
+        <SteadyState Duration="22.8" PowerHigh="0.500" PowerLow="0.500"/>
+        <SteadyState Duration="22.2" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="39.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="15.0" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="13.2" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="6.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="24.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="21.6" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="40.2" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="60.0" PowerHigh="1.070" PowerLow="1.070"/>
+        <SteadyState Duration="30.0" PowerHigh="1.210" PowerLow="1.210"/>
+        <SteadyState Duration="13.8" PowerHigh="1.350" PowerLow="1.350"/>
+        <SteadyState Duration="181.2" PowerHigh="0.390" PowerLow="0.390"/>
+    </workout>
+</workout_file>
+

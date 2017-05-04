@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>SST</category>
+    <name>Traditional SST</name>
+    <description></description>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.25173077" PowerHigh="0.75173074"/>
+        <SteadyState Duration="2700" PowerLow="0.90173078" PowerHigh="0.90173078"/>
+        <Cooldown Duration="600" PowerLow="0.75173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

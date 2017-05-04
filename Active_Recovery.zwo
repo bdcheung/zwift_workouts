@@ -1,0 +1,22 @@
+<workout_file>
+    <author>B.Cheung</author>
+    <name>Active Recovery</name>
+    <description>One hour of Z2</description>
+    <tags>
+        <tag name="RECOVERY"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+        <SteadyState Duration="300" Power="0.65173078"/>
+    </workout>
+</workout_file>

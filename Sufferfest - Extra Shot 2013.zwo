@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description> Want to make your workout just a bit longer? Extra Shot is a 20 minute race simulation that you can add on to any session where you want to drag the suffering out even more. 
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - Extra Shot
+</name>
+    <workout>
+        <SteadyState Duration="99.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="108.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="106.2" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="135.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="180.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="45.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="63.6" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="39.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="22.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="46.8" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="14.4" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="18.6" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="14.4" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="24.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="15.6" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="24.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="49.2" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="30.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="22.2" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="19.8" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="15.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="25.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="78.6" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="31.2" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="37.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="22.8" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="13.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="43.8" PowerHigh="0.560" PowerLow="0.560"/>
+    </workout>
+</workout_file>
+

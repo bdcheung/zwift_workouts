@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>Threshold</category>
+    <name>Hour Of Power</name>
+    <description>
+      Quite a few years ago (circa 2002), I learned of an indoor workout called "The Hour of Power" or HOP for short. It was coined by Bill Black, a regular contributor to the Google Wattage Groups forum. The workout also features in the book, Training and Racing with a Power Meter.
+    </description>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.25173077" PowerHigh="0.85173074"/>
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <SteadyState Duration="160" Power="0.90" />
+        <SteadyState Duration="20" Power="1.15" />
+        <Cooldown Duration="300" PowerLow="0.85173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

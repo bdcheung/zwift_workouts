@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>One of our most popular sessions, this workout features a 20 minute climb followed by five brutal minutes of inverse intervals.
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - The Hunted
+</name>
+    <workout>
+        <SteadyState Duration="226.8" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="169.2" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="66.0" PowerHigh="0.800" PowerLow="0.800"/>
+        <SteadyState Duration="85.2" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="52.8" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="30.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="316.8" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="170.4" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="270.6" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="30.0" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="85.2" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="31.2" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="36.6" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="192.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="110.4" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="51.6" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="159.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="10.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="88.8" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="145.2" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="358.2" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="24.6" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="36.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="138.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="21.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="144.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="50.4" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="9.6" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="42.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="20.4" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="33.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="30.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="21.6" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="40.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="10.8" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="52.2" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="33.0" PowerHigh="1.140" PowerLow="1.140"/>
+        <SteadyState Duration="297.0" PowerHigh="0.660" PowerLow="0.660"/>
+    </workout>
+</workout_file>
+

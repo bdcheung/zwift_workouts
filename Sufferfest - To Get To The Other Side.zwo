@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>To Get to the Other Side features varying efforts and cadences. Aside from a couple of brief leg-openers, you’ll spend the entire workout just below threshold, making it a perfect session for base building or tempo rides between your regular Sufferfest sessions.
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - To Get To The Other Side
+</name>
+    <workout>
+        <Warmup Duration="259.8" PowerHigh="0.550" PowerLow="0.400"/>
+        <SteadyState Duration="50.4" PowerHigh="0.550" PowerLow="0.550"/>
+        <SteadyState Duration="97.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="109.8" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="130.2" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="117.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="79.8" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="120.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="30.0" PowerHigh="1.200" PowerLow="1.200"/>
+        <SteadyState Duration="45.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="59.4" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="57.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="58.8" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="60.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="120.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="90.0" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="84.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="82.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="72.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="90.0" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="181.2" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="118.2" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="121.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="120.0" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="112.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="100.2" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="180.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="181.2" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="180.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="178.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="198.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="142.8" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="179.4" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="244.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="238.2" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="247.8" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="124.8" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="179.4" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="60.0" PowerHigh="0.400" PowerLow="0.400"/>
+        <SteadyState Duration="30.0" PowerHigh="0.650" PowerLow="0.650"/>
+        <SteadyState Duration="295.8" PowerHigh="0.400" PowerLow="0.400"/>
+    </workout>
+</workout_file>
+

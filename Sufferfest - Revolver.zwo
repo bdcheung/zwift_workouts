@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>Simple. Brutal. Uncomplicated. This is a workout you don’t have to think about. You just get on, drive yourself into the ground, and get off. Featuring sixteen one minute intervals with one minute recoveries. 
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - Revolver
+</name>
+    <workout>
+        <SteadyState Duration="154.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="241.8" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="105.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="130.2" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="40.8" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="61.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="63.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="62.4" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="63.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="63.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="65.4" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="63.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.6" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="63.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="59.4" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="64.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="61.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="79.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="58.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.6" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="61.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="61.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="61.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="63.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="64.2" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="62.4" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="60.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="1.240" PowerLow="1.240"/>
+        <SteadyState Duration="352.2" PowerHigh="0.560" PowerLow="0.560"/>
+    </workout>
+</workout_file>
+

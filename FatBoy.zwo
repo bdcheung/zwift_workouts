@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>B.Cheung</author>
+    <category>VO2</category>
+    <name>Fat Boy Intervals</name>
+    <description>
+      Based on a running workout.  The idea was hi-intensity and reduced recovery time between intervals. The study showed an increase in the release of growth hormone when doing the workout this way as opposed to doing it the other way.
+    </description>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.50" PowerHigh="0.750"/>
+        <SteadyState Duration="300" Power="1.10" />
+        <SteadyState Duration="300" Power="0.55" />
+        <SteadyState Duration="240" Power="1.15" />
+        <SteadyState Duration="240" Power="0.55" />
+        <SteadyState Duration="180" Power="1.20" />
+        <SteadyState Duration="180" Power="0.55" />
+        <SteadyState Duration="120" Power="1.25" />
+        <SteadyState Duration="120" Power="0.55" />
+        <SteadyState Duration="60" Power="1.50" />
+        <SteadyState Duration="60" Power="0.55" />
+        <SteadyState Duration="30" Power="1.53" />
+        <Cooldown Duration="600" PowerLow="0.75173074" PowerHigh="0.25173077"/>
+    </workout>
+</workout_file>

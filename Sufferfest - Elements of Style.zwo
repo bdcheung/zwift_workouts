@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <description>While our other videos make you a faster rider, Elements of Style makes you a better rider. Six drills help you improve your form and efficiency on the bike. A session you should do at least once a month. 
+</description>
+<category>Sufferfest</category>
+    <name>Sufferfest - Elements of Style
+</name>
+    <workout>
+        <SteadyState Duration="172.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="237.6" PowerHigh="0.660" PowerLow="0.660"/>
+        <SteadyState Duration="470.4" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="39.6" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="30.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="247.2" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="34.2" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="48.0" PowerHigh="0.750" PowerLow="0.750"/>
+        <SteadyState Duration="60.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="60.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="60.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="60.0" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="60.0" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="60.0" PowerHigh="1.000" PowerLow="1.000"/>
+        <SteadyState Duration="66.0" PowerHigh="1.090" PowerLow="1.090"/>
+        <SteadyState Duration="46.8" PowerHigh="0.560" PowerLow="0.560"/>
+        <SteadyState Duration="181.2" PowerHigh="0.900" PowerLow="0.900"/>
+        <SteadyState Duration="30.6" PowerHigh="0.850" PowerLow="0.850"/>
+        <SteadyState Duration="27.0" PowerHigh="0.950" PowerLow="0.950"/>
+        <SteadyState Duration="73.2" PowerHigh="1.050" PowerLow="1.050"/>
+        <SteadyState Duration="135.0" PowerHigh="0.560" PowerLow="0.560"/>
+    </workout>
+</workout_file>
+
