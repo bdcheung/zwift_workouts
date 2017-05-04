@@ -1,0 +1,21 @@
+<workout_file>
+  <author>Brian Cheung</author>
+  <name>ZeCanon Intervals</name>
+  <description>The goal, as I've said before, is optimal (maximal) fiber recruitment. The first two feel easy - your anaerobic system is providing a good portion of the power. 3-end, you have exhausted anaerobic power and are relying entirely on the aerobic system.
+
+Basically the first two are simply prepping your system, and are not providing any threshold gains in and of themselves. Gains in studies have been on the order of 2-3x standard 20min intervals. My favorite intervals by far.</description>
+  <tags></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75"/>
+    <SteadyState Duration="300" Power="1.03"/>
+    <SteadyState Duration="60" Power="0.5"/>
+    <SteadyState Duration="300" Power="1.04"/>
+    <SteadyState Duration="60" Power="0.5"/>
+    <SteadyState Duration="300" Power="1.05"/>
+    <SteadyState Duration="60" Power="0.5"/>
+    <SteadyState Duration="300" Power="1.06"/>
+    <SteadyState Duration="60" Power="0.5"/>
+    <SteadyState Duration="300" Power="1.07"/>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.25"/>
+  </workout>
+</workout_file>
