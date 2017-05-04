@@ -1,0 +1,17 @@
+<workout_file>
+  <author>Brian Cheung</author>
+  <name>FasCat</name>
+  <description>For the “ON” intervals your target should be 120% FTP.  Note that after the second “ON” interval the rest interval is doubled to eight minutes.</description>
+  <tags></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75"/>
+    <SteadyState Duration="240" Power="1.2"/>
+    <SteadyState Duration="240" Power="0.5"/>
+    <SteadyState Duration="240" Power="1.2"/>
+    <SteadyState Duration="480" Power="0.5"/>
+    <SteadyState Duration="240" Power="1.2"/>
+    <SteadyState Duration="240" Power="0.5"/>
+    <SteadyState Duration="240" Power="1.2"/>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.25"/>
+  </workout>
+</workout_file>
