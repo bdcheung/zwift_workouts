@@ -1,0 +1,42 @@
+<workout_file>
+  <author>Brian Cheung</author>
+  <name>15x1x2</name>
+  <description>1' WI
+2' RI
+Repeat 15x</description>
+  <tags></tags>
+  <workout>
+    <Warmup Duration="300" PowerLow="0.25" PowerHigh="0.75"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <SteadyState Duration="60" Power="1.25"/>
+    <SteadyState Duration="120" Power="0.5"/>
+    <Cooldown Duration="600" PowerLow="0.5" PowerHigh="0.25"/>
+  </workout>
+</workout_file>
